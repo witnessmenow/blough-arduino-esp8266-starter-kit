@@ -19,6 +19,10 @@ A really cheap arduino starter kit using an ESP8266
 | [PIR Motion Sensor](http://s.click.aliexpress.com/e/EeiYzVb)| $0.78 | Can detect when a person is nearby |
 | [0.96" OLED Display](http://s.click.aliexpress.com/e/AiqJeq7)      | $2.24      |   This is a really nice crisp display that only requires 4 pins to use |
 | [4 Digit Seven Segment Display](http://s.click.aliexpress.com/e/qfM3Jei)| $0.77 | Can be used as a clock or to display any numbers |
+| [LDR Module](http://s.click.aliexpress.com/e/nMrBiiE)| $0.37 | Can be used to detect differences in light levels |
+| [Buzzer Module](http://s.click.aliexpress.com/e/AAq7YJQ)| $0.29 | Can be used to play different tones |
+| [DHT11 Temperature & Humidity Sensor](http://s.click.aliexpress.com/e/qr3RRNf) | $0.99 | |
+
 
 
 
