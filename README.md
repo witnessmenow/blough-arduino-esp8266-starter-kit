@@ -3,11 +3,18 @@ A really cheap arduino starter kit using an ESP8266
 
 ## Main Parts
 
+There are the main parts that we will be using for the projects.
+
+#### ESP8266 Arduino Board
+
 | Part        | Cost           | Description  |
 | ------------- | -------------:| ----------------|
-| __**Board**__|
 | [NodeMCU ESP8266 Development Board (CP2012 version)](http://s.click.aliexpress.com/e/BQBAIYj)| $3.05 | This ESP8266 has everything you need to just use (once you have the software setup. There are other NodeMCU boards that are a different size that don't fit in breadboards, which would be best to avoid! |
-| __**Sensors & Displays**__|
+
+#### Sensors And Displays
+
+| Part        | Cost           | Description  |
+| ------------- | -------------:| ----------------|
 | [Soil Moisture Sensor](http://s.click.aliexpress.com/e/BUVbUzZ) | $0.53 | Can be used to check if a plant needs to be watered |
 | [PIR Motion Sensor](http://s.click.aliexpress.com/e/EeiYzVb)| $0.78 | Can detect when a person is nearby |
 | [0.96" OLED Display](http://s.click.aliexpress.com/e/AiqJeq7)      | $2.24      |   This is a really nice crisp display that only requires 4 pins to use |
@@ -21,15 +28,21 @@ A really cheap arduino starter kit using an ESP8266
 
 You will need LEDs, button and some other parts to connect the sensors and the board together. I'll provide two options:
 
-- **Option 1:** Is the cheapest kit I could find but it won't cover doing much other projects outside the ones listed here. I've found the breadboards that come with this kit to be pretty poor, but have been usable (just very stiff)
-- **Option 2:** Is a more complete kit for someone looking to get started with Arduino. It should cover a lot of the basic components that are required for most Arduino projects. It might even be worth picking up this list of stuff after option 1 if you think you'll continue on with Arduino
+#### Options 1: Cheap and cheerful
+
+Is the cheapest kit I could find but it won't cover doing much other projects outside the ones listed here. I've found the breadboards that come with this kit to be pretty poor, but have been usable (just very stiff)
 
 | Part        | Cost           | Description  |
 | ------------- | -------------:| ----------------|
-| **Option 1: Cheap and cheerful**|
 | [Basic starter kit](http://s.click.aliexpress.com/e/RFU3Z33) | $2.42 | Contains a breadboard, LEDs, buttons, jumper wires and resistors.|
 | [100PCs 2N2222 Transistors](http://s.click.aliexpress.com/e/YfQNfmy)| $0.99 | We actually only need one, but I didn't see any smaller packs!|
-| **Option 2: Complete Kit**|
+
+#### Options 2: Complete Kit
+
+Is a more complete kit for someone looking to get started with Arduino. It should cover a lot of the basic components that are required for most Arduino projects. It might even be worth picking up this list of stuff after option 1 if you think you'll continue on with Arduino
+
+| Part        | Cost           | Description  |
+| ------------- | -------------:| ----------------|
 | [Good Solderless Breadboard](http://s.click.aliexpress.com/e/fufyjMv)| $1.78 | This is pretty close in price to the basic starter kit which includes a breadboard, but I have found these to be very good quality. You can buy cheaper ones (around a $1 each) but do yourself a favour and spend the extra few cent!|
 |  [300PCs Resistor Set](http://s.click.aliexpress.com/e/qNBaAE6)| $1.57      | A huge range of resistors that should do you a long, long time |
 | [100PCs LED Kit](http://s.click.aliexpress.com/e/eyRRBA2) | $0.90 | 20 each of Red, Green, Blue, Yellow and White Leds |
