@@ -1,6 +1,6 @@
 # DIY Arduino Starter kit using an ESP8266
 
-A really cheap kit for getting started with Arduino's that will allow you to build some pretty cool starter level projects that interact with different sensors and displays that you can control with your phone or computer via WiFi. 
+This is a guide for buying a really cheap kit for getting started with Arduino's that will allow you to build some pretty cool starter level projects that interact with different sensors and displays that you can control with your phone or computer via WiFi. 
 
 Rather than just having examples of how to use each sensor/module I will instead provide instructions on how to build small projects with them, as I think this is would be a more enjoyable way to learn. 
 
