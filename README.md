@@ -21,24 +21,17 @@ To be able to do all the projects that I will cover you will need to buy all the
 
 There are the main parts that we will be using for the projects.
 
-#### ESP8266 Arduino Board
-
 | Part        | Cost           | Description  |
 | ------------- | -------------:| ----------------|
 | [NodeMCU ESP8266 Development Board (CP2012 version)](http://s.click.aliexpress.com/e/BQBAIYj)| $3.05 | This ESP8266 has everything you need to just use (once you have the software setup. There are other NodeMCU boards that are a different size that don't fit in breadboards, which would be best to avoid! |
-
-#### Sensors And Displays
-
-| Part        | Cost           | Description  |
-| ------------- | -------------:| ----------------|
 | [Soil Moisture Sensor](http://s.click.aliexpress.com/e/BUVbUzZ) | $0.53 | Can be used to check if a plant needs to be watered |
 | [PIR Motion Sensor](http://s.click.aliexpress.com/e/EeiYzVb)| $0.78 | Can detect when a person is nearby |
 | [0.96" OLED Display](http://s.click.aliexpress.com/e/AiqJeq7)      | $2.24      |   This is a really nice crisp display that only requires 4 pins to use |
 | [4 Digit Seven Segment Display](http://s.click.aliexpress.com/e/qfM3Jei)| $0.77 | Can be used as a clock or to display any numbers |
 | [LDR Module](http://s.click.aliexpress.com/e/nMrBiiE)| $0.37 | Can be used to detect differences in light levels |
 | [Buzzer Module](http://s.click.aliexpress.com/e/AAq7YJQ)| $0.29 | Can be used to play different tones |
-| [DHT11 Temperature & Humidity Sensor](http://s.click.aliexpress.com/e/qr3RRNf) | $0.99 | |
-|[HC-SR04 Distance Sensor](http://s.click.aliexpress.com/e/N7MRvFa)| $0.78 |  |
+| [DHT11 Temperature & Humidity Sensor](http://s.click.aliexpress.com/e/qr3RRNf) | $0.99 | For getting the temperature and humidity |
+|[HC-SR04 Distance Sensor](http://s.click.aliexpress.com/e/N7MRvFa)| $0.78 | Can be used to measure the distance from the sensor to an object |
 
 ### Basics Components
 
