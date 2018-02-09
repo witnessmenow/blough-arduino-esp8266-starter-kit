@@ -9,6 +9,7 @@ For example, instead of showing example code for getting the soil moisture senso
 ## Why Did I Make this List
 
 I see the question online a lot: **What kit should I buy to get started?** 
+
 The answer is usually something like an [Elegoo Uno starter kit](http://amzn.to/2H33WdV). While I think these kits are decent, there is two main reasons why I would recomend this DIY kit instead
 
 1) **I think the ESP8266 is a way more insteresting board than an Arduino Uno** - It can do basically everything an Uno but it has built in WiFi. This means it can connect to the internet to send/recieve data which I think makes for way cooler projects! The WiFi features are not hard to use and it really expands what you can do with your board. The Uno does have some advantages over the ESP8266, mainly that it has more pins, but for starter projects this often isn't an issue.
