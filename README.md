@@ -4,7 +4,7 @@ This is a guide for buying and a really cheap kit for getting started with Ardui
 
 Rather than just having examples of how to use each sensor/module I will instead provide instructions on how to build small projects with them, as I think this is would be a more enjoyable way to learn. 
 
-For example, instead of showing example code for getting the soil moisture sensor working, I'll provide instructions on how to build a project that measures soil moisture of your plant and sends you a tweet when it needs to be watered!
+For example, instead of just showing example code for getting the soil moisture sensor working, I'll provide instructions on how to build a project that measures soil moisture of your plant and sends you a tweet when it needs to be watered!
 
 ## Why Did I Make this List
 
