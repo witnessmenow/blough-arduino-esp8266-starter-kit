@@ -1,19 +1,19 @@
 # DIY Arduino Starter kit using an ESP8266
 
-This is a guide for buying and a really cheap kit for getting started with Arduinos. This kit will allow you to build some pretty cool starter level projects that interact with different sensors and displays that you can control with your phone or computer via WiFi. 
+This is a guide for buying and a really cheap kit for getting started with Arduinos. This kit will allow you to build some pretty cool starter level projects that interact with different sensors and displays that you can control with your phone or computer via WiFi.
 
-Rather than just having examples of how to use each sensor/module I will instead provide instructions on how to build small projects with them, as I think this is would be a more enjoyable way to learn. 
+Rather than just having examples of how to use each sensor/module I will instead provide instructions on how to build small projects with them, as I think this is would be a more enjoyable way to learn.
 
 For example, instead of just showing example code for getting the soil moisture sensor working, I'll provide instructions on how to build a project that measures soil moisture of your plant and sends you a tweet when it needs to be watered!
 
 ## Why Did I Make this List
 
-I see the question online a lot: **What kit should I buy to get started?** 
+I see the question online a lot: **What kit should I buy to get started?**
 
-The answer is usually something like an [Elegoo Uno starter kit](http://amzn.to/2H33WdV). While I think these kits are decent, there is two main reasons why I would recomend this DIY kit instead
+The answer is usually something like an [Elegoo Uno starter kit](http://amzn.to/2H33WdV). While I think these kits are decent, there is two main reasons why I would recommend this DIY kit instead
 
-1) **I think the ESP8266 is a way more insteresting board than an Arduino Uno** - It can do basically everything an Uno but it has built in WiFi. This means it can connect to the internet to send/recieve data which I think makes for way cooler projects! The WiFi features are not hard to use and it really expands what you can do with your board. The Uno does have some advantages over the ESP8266, mainly that it has more pins, but for starter projects this often isn't an issue.
-2) **It's much cheaper** - If you go for the cheapest way to buy this kit it is less than $15 delivered, which is $20 cheaper than the basic Elegoo kit. In my opinion the components and displays in this kit are better suited to start building actual funcitoning projects than with other starter kits, which focus on giving you different components that might make up a project.
+1) **I think the ESP8266 is a way more interesting board than an Arduino Uno** - It can do basically everything an Uno but it has built in WiFi. This means it can connect to the internet to send/receive data which I think makes for way cooler projects! The WiFi features are not hard to use and it really expands what you can do with your board. The Uno does have some advantages over the ESP8266, mainly that it has more pins, but for starter projects this often isn't an issue.
+2) **It's much cheaper** - If you go for the cheapest way to buy this kit it is less than $15 delivered, which is $20 cheaper than the basic Elegoo kit. In my opinion the components and displays in this kit are better suited to start building actual functioning projects than with other starter kits, which focus on giving you different components that might make up a project.
 
 ## Buying The Kit
 
@@ -58,9 +58,9 @@ Is a more complete kit for someone looking to get started with Arduino. It shoul
 | Part        | Cost           | Description  |
 | ------------- | -------------:| ----------------|
 | [Good Solderless Breadboard](http://s.click.aliexpress.com/e/fufyjMv)| $1.78 | This is pretty close in price to the basic starter kit which includes a breadboard, but I have found these to be very good quality. You can buy cheaper ones (around a $1 each) but do yourself a favour and spend the extra few cent!|
-|  [300PCs Resistor Set](http://s.click.aliexpress.com/e/qNBaAE6)| $1.57      | A huge range of resistors that should do you a long, long time |
-| [100PCs LED Kit](http://s.click.aliexpress.com/e/eyRRBA2) | $0.90 | 20 each of Red, Green, Blue, Yellow and White Leds |
+| [300PCs Resistor Set](http://s.click.aliexpress.com/e/qNBaAE6)| $1.57      | A huge range of resistors that should do you a long, long time |
+| [100PCs LED Kit](http://s.click.aliexpress.com/e/eyRRBA2) | $0.90 | 20 each of Red, Green, Blue, Yellow and White LEDs |
 | [10PCs Tactile button kit](http://s.click.aliexpress.com/e/6uv7QNj) | $0.40 | Comes with plastic caps as well |
 | [200PCs Transistor Assortment Kit](http://s.click.aliexpress.com/e/3fuZFQ3) | $2.56 | 20PCs of 10 different transistors in a plastic box |
-| [40Pcs M-M Jumper Wires](http://s.click.aliexpress.com/e/BiujMFu)| $0.65 | I recomend buying a few packs of these. It will be used to connect things together on the breadboard.|
+| [40Pcs M-M Jumper Wires](http://s.click.aliexpress.com/e/BiujMFu)| $0.65 | I recommend buying a few packs of these. It will be used to connect things together on the breadboard.|
 | [40Pcs M-F Jumper Wires](http://s.click.aliexpress.com/e/N7AQ7YN)| $0.65 | Can be used to connect displays and modules to the breadboard.|
